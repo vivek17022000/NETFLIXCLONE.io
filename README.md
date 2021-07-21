@@ -1,8 +1,8 @@
 # NETFLIXCLONE.io
 Hi I made this project during the 2 Days.
-Also been used as PRoject #2 for Pirple.com
+Also been used as Project#2 in Frontend Fundamentals course available on Pirple.com
 
-I got to learn a lot from this basic Frontend Fundamental Course by Pirple.com and it was an amazing experience learning with PIRPLE.
+I got to learn a lot from this basic Frontend Fundamentals Course by Pirple.com and it was an amazing experience learning with PIRPLE.
 
 <br>I got to have hands on experience on:
 
