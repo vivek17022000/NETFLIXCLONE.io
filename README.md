@@ -20,6 +20,6 @@ I enjoyed attending this course, you can as well. Just visit: https://www.pirple
 
   <li><a href="https://www.linkedin.com/in/vivek-singh-0a6859185/"> MY LinkedIn</a>
     
-  <li><a href="https://www.linkedin.com/company/pirple/"> LinkedIn</a>  
+  <li><a href="https://www.linkedin.com/company/pirple/"> Pirple LinkedIn</a>  
     
   <li><a href="https://github.com/pirple">GitHub</a>  
